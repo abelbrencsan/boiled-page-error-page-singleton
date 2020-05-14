@@ -1,0 +1,9 @@
+/* Error page singleton */
+main.error-page {
+	align-items: center;
+	background-color: $border-bg-color;
+	display: flex;
+	min-height: 100vh;
+	padding: $section-padding 0 ($section-padding - $element-margin) 0;
+	text-align: center;
+}
